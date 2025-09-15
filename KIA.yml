@@ -1,6 +1,10 @@
 team: KIA
 
+<<<<<<< HEAD
 manager: 이승엽
+=======
+manager: 이종범
+>>>>>>> develop
 
 members:
 - 양현종
